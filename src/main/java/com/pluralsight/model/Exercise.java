@@ -1,7 +1,8 @@
 package com.pluralsight.model;
 
-public class Exercise {
 
+public class Exercise {
+	
 	private int minutes;
 
 	public int getMinutes() {
